@@ -3,14 +3,12 @@
     283deg,
     rgb(49, 171, 254),
     rgb(3, 102, 231)
-  );
+   );
 
   display: grid;
   grid-template-columns: repeat(3,1fr);
   column-gap: 70px;
   padding: 30px;
-
-
 }
 
 .card {
